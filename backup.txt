@@ -1,0 +1,6 @@
+<div class="comites">
+        <div class = "comited">
+          <div class="backge" style="background-color: rgb(19, 154, 216);">o</div>
+          <div  class = "backgd"></div>
+        </div>
+      </div>
